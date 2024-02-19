@@ -2,8 +2,6 @@
 
 - 🤔 I’m using program languages Java, Kotlin, Python, JavaScript, Skript etc.
 
-<br>
-<br>
 <a href="">
   <img align="top" src="https://github-profile-trophy.vercel.app/?username=Hiyuuu&column=2&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </a>
